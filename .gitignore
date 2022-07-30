@@ -1,0 +1,11 @@
+.env
+node_modules
+.DS_Store
+*.csv
+*.txt
+/打包程序
+ccxtbot-linux
+ccxtbot-macos
+ccxtbot-win.exe
+cmd.exe.lnk
+打包程序release.rar
